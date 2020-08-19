@@ -1,1 +1,1 @@
-This repository contains the .txt files listing probes for hybridization chain reaction to detect RNA in mouse embryos. Filenames indicate the target RNA and the probe hairpin. Related protocol can be found at https://dx.doi.org/10.17504/protocols.io.7pyhmpw.
+This repository contains .txt files listing probes for hybridization chain reaction (HCR) to detect RNA in mouse embryos. Filenames indicate the target RNA and the probe hairpin. Related protocol can be found at https://dx.doi.org/10.17504/protocols.io.7pyhmpw.
