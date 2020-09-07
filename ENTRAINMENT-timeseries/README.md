@@ -1,4 +1,4 @@
-This repository contains timeseries from microfluidics-based entrainment experiments. All files contain timeseries of the segmentation clock, except for the ones with centerROI in the filename, which contain timeseries of oscillations at the center of spreadouts (posterior PSM).
+This repository contains timeseries from microfluidics-based entrainment experiments. All files contain timeseries of the segmentation clock, **except** for the ones with centerROI in the filename, which contain timeseries of oscillations at the center of spreadouts (posterior PSM).
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
