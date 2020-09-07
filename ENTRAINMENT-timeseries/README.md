@@ -1,3 +1,5 @@
+This repository contains timeseries from microfluidics-based entrainment experiments.
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
