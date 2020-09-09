@@ -1,5 +1,12 @@
 Here are some movies from my time in Alexander Aulehla's lab at the European Molecular Biology Laboratory (EMBL) in Heidelberg, Germany.
 
+* **SO_2.0D_130mins_CTRL.avi**: movie of E10.5 spreadout, expressing LuVeLu, subjected to 130-min periodic pulses of DMSO control, with its corresponding period and phase wavelet movies
+* **SO_2.0D_130mins_DAPT.avi**: movie of E10.5 spreadout, expressing LuVeLu, subjected to 130-min periodic pulses of 2 uM DAPT, with its corresponding period and phase wavelet movies
+* **SO_2.0D_170mins_CTRL.avi**: movie of E10.5 spreadout, expressing LuVeLu, subjected to 170-min periodic pulses of DMSO control, with its corresponding period and phase wavelet movies
+* **SO_2.0D_170mins_DAPT.avi**: movie of E10.5 spreadout, expressing LuVeLu, subjected to 170-min periodic pulses of 2 uM DAPT, with its corresponding period and phase wavelet movies
+* **intactPSM_2.0D_170mins_DAPT.avi**: movie of intact E10.5 PSM, expressing LuVeLu, cultured in PDMS microfluidics device and subjected to 170-min periodic pulses of 2 uM DAPT
+* **intactPSM_inPDMSdevice.avi**: movie of intact E10.5 PSM, expressing LuVeLu and H2B-mCherry, cultured in PDMS microfluidics device and subjected to 170-min periodic pulses of DMSO control
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
